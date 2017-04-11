@@ -1,0 +1,6 @@
+[submodule "common"]
+	path = common
+	url = git@github.com:isitornot/common.git
+[submodule "community"]
+	path = community
+	url = git@github.com:isitornot/community.git
