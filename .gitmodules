@@ -4,3 +4,6 @@
 [submodule "community"]
 	path = community
 	url = git@github.com:isitornot/community.git
+[submodule "web-ui"]
+	path = web-ui
+	url = ./web-ui/
